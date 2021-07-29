@@ -10,8 +10,8 @@
 	- [感知perception](#感知perception)
 	- [决策decision](#决策decision)
 	- [控制control](#控制control)
-	- [综合功能模块synthetical-functional-module](#综合功能模块synthetical functional module)
-	- [整车whole vehicle](#整车whole vehicle)
+	- [综合功能模块synthetical-functional-module](#综合功能模块synthetical-functional-module)
+	- [整车whole-vehicle](#整车whole-vehicle)
 - [自动驾驶测试与验证设计](#自动驾驶测试与验证设计)
 - [自动驾驶测试与验证技术](#自动驾驶测试与验证技术)
 - [文献集](#文献集)
@@ -29,9 +29,9 @@
 
 ### 控制control
 
-### 综合功能模块synthetical functional module
+### 综合功能模块synthetical-functional-module
 
-### 整车whole vehicle
+### 整车whole-vehicle
 
 
 ## 自动驾驶测试与验证设计
