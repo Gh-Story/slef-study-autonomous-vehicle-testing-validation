@@ -115,6 +115,9 @@ D²-City数据集/需申请
 CamVid数据集
 数据下载：https://s3.amazonaws.com/fast-ai-imagelocal/camvid.tgz
 
+NGSIM数据集
+数据下载：https://catalog.data.gov/dataset/next-generation-simulation-ngsim-vehicle-trajectories-and-supporting-data
+
 ### 交通标志数据集
 
 KUL Belgium Traffic Sign Dataset数据集
