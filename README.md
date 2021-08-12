@@ -6,7 +6,7 @@
 	- [英文缩写](#英文缩写 )
 	- [相关术语](#相关术语)
 - [自动驾驶测试与验证版块](#自动驾驶测试与验证版块)
-	- [测试标准/行业规定Standard](#测试标准/行业规定Standard)
+	- [测试标准-行业规定Standard](#测试标准-行业规定Standard)
 	- [感知Perception](#感知Perception)
 	- [预测Prediction](#预测Prediction)
 	- [地图定位Map-Localization](#地图定位Map-Localization)
@@ -35,7 +35,7 @@
 
 ## 自动驾驶测试与验证版块
 
-### 测试标准/行业规定Standard
+### 测试标准-行业规定Standard
 
 ### 感知Perception
 
