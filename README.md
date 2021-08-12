@@ -9,16 +9,16 @@
 	- [测试标准/行业规定Standard](#测试标准/行业规定Standard)
 	- [感知Perception](#感知Perception)
 	- [预测Prediction](#预测Prediction)
-	- [地图定位Map-Localization](#地图定位Map & Localization)
+	- [地图定位Map-Localization](#地图定位Map-Localization)
 	- [路由寻径Routing](#路由寻径Routing)
-	- [行为决策Behavior-Decision](#行为决策Behavior Decision)
-	- [动作规划Motion-Planing](#动作规划Motion Planing)
-	- [反馈控制Feedback-Control](#反馈控制feedback control)
-	- [综合功能模块Synthetical-Functional-Module](#综合功能模块Synthetical Functional Module)
+	- [行为决策Behavior-Decision](#行为决策Behavior-Decision)
+	- [动作规划Motion-Planing](#动作规划Motion-Planing)
+	- [反馈控制Feedback-Control](#反馈控制Feedback-Control)
+	- [综合功能模块Synthetical-Functional-Module](#综合功能模块Synthetical-Functional-Module)
 	- [整车Whole-Vehicle](#整车Whole-Vehicle)
 - [自动驾驶测试与验证设计](#自动驾驶测试与验证设计)
-	- [基于里程的测试Distance-based](#基于里程的测试Distance-based )
-	- [基于场景的测试Scenario-based](#基于场景的测试Scenario-based )
+	- [基于里程的测试Distance-Based](#基于里程的测试Distance-Based )
+	- [基于场景的测试Scenario-Based](#基于场景的测试Scenario-Based )
 - [自动驾驶测试与验证技术](#自动驾驶测试与验证技术)
 - [文献集](#文献集)
 - [算法集](#算法集)
@@ -41,25 +41,25 @@
 
 ### 预测Prediction
 
-### 地图定位Map & Localization
+### 地图定位Map-Localization
 
 ### 路由寻径Routing
 
-### 行为决策Behavior Decision
+### 行为决策Behavior-Decision
 
-### 动作规划Motion Planing
+### 动作规划Motion-Planing
 
-### 反馈控制Feedback Control
+### 反馈控制Feedback-Control
 
-### 综合功能模块Synthetical Functional Module
+### 综合功能模块Synthetical-Functional-Module
 
-### 整车Whole Vehicle
+### 整车Whole-Vehicle
 
 
 ## 自动驾驶测试与验证设计
-### 基于里程的测试Distance-based
+### 基于里程的测试Distance-Based
 
-### 基于场景的测试Scenario-based
+### 基于场景的测试Scenario-Based
 
 ## 自动驾驶测试与验证技术
 
