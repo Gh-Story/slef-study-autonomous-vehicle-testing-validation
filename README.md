@@ -35,7 +35,7 @@
 
 ## 自动驾驶测试与验证版块
 <a href="https://github.com/sponsors/astorfi/dashboard" target="_blank">
-	<img width="600" height="500" align="center" src="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/edit/main/AVStruc.png"/>
+	<img width="600" height="500" align="center" src="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/blob/main/AVStruc.png"/>
 </a>
 
 ### 测试标准-行业规定Standard
