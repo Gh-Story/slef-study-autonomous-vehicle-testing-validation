@@ -35,11 +35,11 @@
 
 ## 自动驾驶测试与验证版块
 <a href="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/" target="_blank">
-	
+	<img width="600" height="500" align="center" src="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/blob/main/AVStruc.png"/>
 </a>
 
 
-![图片加载失败](https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/blob/main/AVStruc.png)
+
 
 ### 测试标准-行业规定Standard
 
