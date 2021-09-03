@@ -34,7 +34,7 @@
 ### 相关术语
 
 ## 自动驾驶测试与验证版块
-<a href="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/blob/main/AVStruc.png" target="_blank">
+<a href="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/" target="_blank">
 	<img width="600" height="500" align="center" src="https://github.com/Gh-Story/slef-study-autonomous-vehicle-testing-validation/blob/main/AVStruc.png"/>
 </a>
 
